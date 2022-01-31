@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "module": "es6",
+    "target": "ES2016",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "jsx": "preserve"
+  },
+  "include": ["src"]
+}
